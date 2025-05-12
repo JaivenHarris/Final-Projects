@@ -1,0 +1,9 @@
+---------- Bears Produce Receipt ----------
+Date: Apr 25 2025 11:31:50
+Items:
+- Apple - $1.99/lb (Organic)
+----------------------------
+Subtotal: $1.99
+Total: $1.99
+----------------------------
+Thank you for shopping at Bears Produce!
